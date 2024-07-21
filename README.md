@@ -52,7 +52,6 @@ atliq-hardware-powerbi/
 │   ├── processed_data/
 ├── Reports/
 │   ├── sales_analysis.pbix
-│   ├── inventory_dashboard.pbix
 │   ├── profit_analysis.pbix
 │   ├── performance_insights.pbix
 ├── Scripts/
@@ -86,9 +85,7 @@ atliq-hardware-powerbi/
 <p>The project includes the following key reports and dashboards:</p>
 <ol>
     <li><strong>Sales Analysis:</strong> Sales performance by region, product, and time period.</li>
-    <li><strong>Inventory Dashboard:</strong> Inventory levels by product category and stock movement.</li>
     <li><strong>Financial Overview:</strong> Revenue, expenses, and profit analysis.</li>
-    <li><strong>Human Resources Insights:</strong> Employee demographics and performance.</li>
 </ol>
 
 <h2 id="key-insights">Key Insights</h2>
