@@ -12,10 +12,6 @@
 <h2>Project Overview</h2>
 <p>This project leverages Power BI for advanced data analysis and visualization for Atliq Hardware. The objective is to provide insightful dashboards and reports to aid data-driven decision-making.</p>
 
-        <ul>
-            <li><a href="#profit-analysis">Profit Analysis</a></li>
-            <li><a href="#performance-insights">Performance Insights</a></li>
-        </ul>
 
 <h2 id="reports-and-dashboards">Reports and Dashboards</h2>
 <p>The project includes the following key reports and dashboards:</p>
