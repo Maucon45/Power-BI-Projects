@@ -25,62 +25,6 @@
         </ul>
     </li>
 </ol>
-
-<h2 id="installation">Installation</h2>
-<ol>
-    <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/username/atliq-hardware-powerbi.git</code></pre>
-    </li>
-    <li><strong>Open Power BI Desktop:</strong>
-        <ul>
-            <li>Launch Power BI Desktop.</li>
-            <li>Open the <code>.pbix</code> file located in the repository.</li>
-        </ul>
-    </li>
-    <li><strong>Connect to Data Sources:</strong>
-        <ul>
-            <li>Ensure data source connections are configured correctly.</li>
-        </ul>
-    </li>
-</ol>
-
-<h2 id="folder-structure">Folder Structure</h2>
-<pre><code>
-atliq-hardware-powerbi/
-├── Data/
-│   ├── raw_data/
-│   ├── processed_data/
-├── Reports/
-│   ├── sales_analysis.pbix
-│   ├── profit_analysis.pbix
-│   ├── performance_insights.pbix
-├── Scripts/
-│   ├── data_cleaning.py
-│   ├── data_transformations.py
-└── README.md
-</code></pre>
-
-<h2 id="usage">Usage</h2>
-<ol>
-    <li><strong>Open a Report:</strong>
-        <ul>
-            <li>Navigate to the <code>Reports</code> directory.</li>
-            <li>Open a <code>.pbix</code> file in Power BI Desktop.</li>
-        </ul>
-    </li>
-    <li><strong>Refresh Data:</strong>
-        <ul>
-            <li>Click on the <code>Refresh</code> button to load the latest data.</li>
-        </ul>
-    </li>
-    <li><strong>Explore Dashboards:</strong>
-        <ul>
-            <li>Use filters and slicers to explore different data aspects.</li>
-            <li>Hover over visualizations for detailed insights.</li>
-        </ul>
-    </li>
-</ol>
-
 <h2 id="reports-and-dashboards">Reports and Dashboards</h2>
 <p>The project includes the following key reports and dashboards:</p>
 <ol>
