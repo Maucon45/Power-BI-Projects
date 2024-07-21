@@ -19,6 +19,13 @@
     <li><strong>Sales Analysis:</strong> Sales performance by region, product, and time period.</li>
     <li><strong>Financial Overview:</strong> Revenue, expenses, and profit analysis.</li>
 </ol>
+<h2> Key Insights </h2>
+<p><img src="https://github.com/Maucon45/Power-BI-Projects/blob/main/Screenshot%20(48).png" alt="Description of Image"></p>
+<h2> Profit Analysis</h2>
+<p><img src="https://github.com/Maucon45/Power-BI-Projects/blob/main/Screenshot%20(49).png" alt="Description of Image"></p>
+<h2> Performance Insights</h2>
+<p><img src="https://github.com/Maucon45/Power-BI-Projects/blob/main/Screenshot%20(50).png" alt="Description of Image"></p>
+
 
 <h2 id="key-insights">Key Insights</h2>
 
